@@ -58,7 +58,7 @@ This project showed how AI tools can help developers **prototype and build appli
 
 Watch the demo of the application:
 
-*(Add your demo video link here or upload a GIF)*
+*https://drive.google.com/drive/folders/1aWAE9XeoQ-DWKc2mF8Gi-tdkLQFfUYUv?usp=sharing*
 
 ---
 
